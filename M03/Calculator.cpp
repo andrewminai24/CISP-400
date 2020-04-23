@@ -27,7 +27,7 @@ double factExp(double x, int n)
 
 
 
-double sinex(double x, int nterms) {
+double we(double x, int nterms) {
     int m, i, j = 1;
     float sum = 0;
 

@@ -38,6 +38,7 @@ int main(){
 //cout << factorial(3) << endl;
 cout << sin(3,4) << endl;
 }
+//This code is from Professor Hermle below
 /*
 double primary()	// Number or �(� Expression �)�
 {
